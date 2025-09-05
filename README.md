@@ -1,6 +1,6 @@
   Hi, I'm Lok Subedi 👋  
 
-💼 QA Automation Engineer | Selenium |Java | API Testing | CI/CD  
+QA Automation Engineer | Selenium | Java | API Testing | CI/CD | Building automation frameworks to improve software quality
 
 🌐 [Portfolio Website](https://lifeintestcases.com)  
 🔗 [LinkedIn](https://linkedin.com/in/lok-subedi-qaengineer)  
